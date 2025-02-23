@@ -22,7 +22,7 @@ The dataset used is [IMDb Top 1000 Movies](imdb_top_1000.csv). It contains infor
   
 ## Running
 To run the system, execute the following, replacing "your movie description here" with whatever type of movie you are looking for:
-       ```sh
+       ```
        python recommend.py "Your movie description here"
        ```
 
