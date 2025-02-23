@@ -1,7 +1,7 @@
 # AI/Machine Learning Intern Challenge: Simple Content-Based Recommendation
 
 ## Dataset
-The dataset used is [IMDb Top 1000 Movies](imdb_top_1000.csv). It contains information about movies including titles, overviews, release years, and other metadata. The dataset is included in this repository. No additional steps are needed to load it.
+The dataset used is [IMDb Top 1000 Movies](imdb_top_1000.csv). It contains information about movies including titles, overviews, release years, and other metadata. The dataset is included in this repository, but you can also download it.
 
 ## Setup
 - **Python Version:** This project works with Python 3.7 or later.
